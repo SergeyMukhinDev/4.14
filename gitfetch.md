@@ -1,7 +1,7 @@
 ### Команда Git fetch  
 
 Данная команда забирает изменения из удаленного репозитория.  
-Пример:  
+***Пример:***  
 `git fetch https://github.com/SergeyMukhinDev/4.14.git`  
 
 [<<назад](./gitpull.md)     [дальше>>](./gitmerge.md)  
