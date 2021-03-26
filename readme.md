@@ -34,7 +34,7 @@ LICENSES:[MIT](./license.md)
 - [git merge](./gitmerge.md)   
 
 ***  
-##[git hub](./github.md)  
+## [git hub](./github.md)  
 
 [![git_logo](./image/github.png)](https://github.com "Официальный сайт GitHub")
 
