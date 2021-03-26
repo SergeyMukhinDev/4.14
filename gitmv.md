@@ -2,6 +2,10 @@
 Команда используется для перемещения подмодуля из одного места репозитория в другое.  
 Пример:  
 
-`git mv /path/to/module new/path/to/module`
+`git mv /path/to/module new/path/to/module`  
+
+[<<назад](./gitrm.md)     [дальше>>](./gitclean.md)  
+
+
 
 [к оглавлению](./readme.md)
