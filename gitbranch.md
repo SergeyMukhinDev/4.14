@@ -4,7 +4,7 @@
 
 ***Пример:***  
 
-`git branch test` - создаем новыю ветку с имененм `test`  
+`git branch test` - создаем новую ветку с именем `test`  
 
 `git checkout test` - переходим в ветку `test`  
 
